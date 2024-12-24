@@ -1,0 +1,54 @@
+[
+    {
+      "Name": "Rachit Khandelwal",
+      "Skills": ["Java", "React.js", "Node.js", "MongoDB", "Express.js"],
+      "Years of Experience": 0
+    },
+    {
+      "Name": "Aarav Sharma",
+      "Skills": ["Python", "Machine Learning", "TensorFlow", "Keras"],
+      "Years of Experience": 2
+    },
+    {
+      "Name": "Ananya Gupta",
+      "Skills": ["JavaScript", "React.js", "Vue.js", "CSS"],
+      "Years of Experience": 1
+    },
+    {
+      "Name": "Ishaan Patel",
+      "Skills": ["C++", "Data Structures", "Algorithms", "Competitive Programming"],
+      "Years of Experience": 3
+    },
+    {
+      "Name": "Meera Jain",
+      "Skills": ["AWS", "DevOps", "Docker", "Kubernetes"],
+      "Years of Experience": 4
+    },
+    {
+      "Name": "Arjun Verma",
+      "Skills": ["PHP", "Laravel", "MySQL", "HTML"],
+      "Years of Experience": 2
+    },
+    {
+      "Name": "Rhea Malhotra",
+      "Skills": ["Python", "Django", "PostgreSQL", "REST APIs"],
+      "Years of Experience": 3
+    },
+    {
+      "Name": "Kabir Joshi",
+      "Skills": ["Android Development", "Kotlin", "Java", "SQLite"],
+      "Years of Experience": 2
+    },
+    {
+      "Name": "Avni Agarwal",
+      "Skills": ["iOS Development", "Swift", "Objective-C", "UI/UX Design"],
+      "Years of Experience": 4
+    },
+    {
+      "Name": "Rohan Singh",
+      "Skills": ["Node.js", "Express.js", "MongoDB", "GraphQL"],
+      "Years of Experience": 1
+    }
+    
+  ]
+  
