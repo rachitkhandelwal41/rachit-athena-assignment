@@ -80,4 +80,4 @@ The backend will be running locally on `http://localhost:3000` (or another port 
 This project is licensed under the MIT License.
 ```
 
-This README provides clear instructions for setting up and running the project both locally for the frontend and backend. You can adjust it further based on the specifics of your project.
+
